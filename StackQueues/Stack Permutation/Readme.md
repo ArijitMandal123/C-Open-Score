@@ -35,17 +35,14 @@ This algorithm is useful in scenarios where operations must follow Last-In-First
 arr1[] = {1, 2, 3}
 arr2[] = {2, 1, 3}
 ```
-
 ## Push 1, Push 2, Pop 2, Pop 1, Push 3, Pop 3 → Matches output.
-
 ### Output
-
-# YES
+YES
 
 For invalid sequences, such as:
 arr2[] = {3, 1, 2}
-
-# Not Possible
+### Output
+Not Possible
 
 ### How to Use
 
