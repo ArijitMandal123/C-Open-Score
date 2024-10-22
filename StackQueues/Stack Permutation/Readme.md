@@ -40,17 +40,17 @@ arr2[] = {2, 1, 3}
 
 ### Output
 
-## YES
+# YES
 
 For invalid sequences, such as:
 arr2[] = {3, 1, 2}
 
-## Not Possible
+# Not Possible
 
 ### How to Use
 
-## Clone the repository.
+# Clone the repository.
 
-## Compile the provided C code.
+# Compile the provided C code.
 
-## Input the sequence to test the validity of the output stack permutation.
+# Input the sequence to test the validity of the output stack permutation.
